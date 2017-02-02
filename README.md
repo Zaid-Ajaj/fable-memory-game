@@ -1,4 +1,4 @@
-# fable-memory-game [demo here](https://zaidajaj.neocities.org/html/dist/index.html)
+# fable-memory-game [demo here](https://zaidajaj.neocities.org/html/memory-game/index.html)
 Classical memory game written in F# with Fable and Fable-Arch
 
 ## Install 
